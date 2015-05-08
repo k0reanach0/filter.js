@@ -7,13 +7,13 @@ $(document).ready(function(){
     console.log(record)
   };
 
-  var FJS = FilterJS(movies, '#movies', {
-    template: '#movie-template',
+  var FJS = FilterJS(places, '#places', {
+    template: '#places-template',
     search: {ele: '#searchbox'},
     //search: {ele: '#searchbox', fields: ['runtime']}, // With specific fields
     callbacks: {
       afterFilter: function(result){
-        $('#total_movies').text(result.length);
+        $('#total_places').text(result.length);
       }
     }
     //appendToContainer: appendToContainer
@@ -36,21 +36,21 @@ $(document).ready(function(){
   });
 
   FJS.setStreaming({
-    data_url: 'data/stream_movies.json',
+    data_url: 'data/stream_places.json',
     stream_after: 1,
     batch_size: 50
   });
 
-  FJS.addCriteria({field: 'year', ele: '#year_filter', type: 'range', all: 'all'});
+  FJS.addCriteria({field: 'year', ele: '#type_filter', type: 'range', all: 'all'});
   FJS.addCriteria({field: 'rating', ele: '#rating_filter', type: 'range'});
-  FJS.addCriteria({field: 'runtime', ele: '#runtime_filter', type: 'range'});
-  FJS.addCriteria({field: 'genre', ele: '#genre_criteria input:checkbox'});
+  FJS.addCriteria({field: 'runtime', ele: '#distance_filter', type: 'range'});
+  FJS.addCriteria({field: 'genre', ele: '#mood_criteria input:checkbox'});
 
   /*
    * Add multiple criterial.
     FJS.addCriteria([
-      {field: 'genre', ele: '#genre_criteria input:checkbox'},
-      {field: 'year', ele: '#year_filter', type: 'range'}
+      {field: 'genre', ele: '#mood_criteria input:checkbox'},
+      {field: 'year', ele: '#type_filter', type: 'range'}
     ])
   */
 
@@ -70,20 +70,20 @@ function initSliders(){
     }
   });
 
-  $("#runtime_slider").slider({
+  $("#distance_slider").slider({
     min: 50,
     max: 250,
     values:[0, 250],
     step: 10,
     range:true,
     slide: function( event, ui ) {
-      $("#runtime_range_label" ).html(ui.values[ 0 ] + ' mins. - ' + ui.values[ 1 ] + ' mins.');
-      $('#runtime_filter').val(ui.values[0] + '-' + ui.values[1]).trigger('change');
+      $("#distance_range_label" ).html(ui.values[ 0 ] + ' mins. - ' + ui.values[ 1 ] + ' mins.');
+      $('#distance_filter').val(ui.values[0] + '-' + ui.values[1]).trigger('change');
     }
   });
 
-  $('#genre_criteria :checkbox').prop('checked', true);
-  $('#all_genre').on('click', function(){
-    $('#genre_criteria :checkbox').prop('checked', $(this).is(':checked'));
+  $('#mood_criteria :checkbox').prop('checked', true);
+  $('#all_mood').on('click', function(){
+    $('#mood_criteria :checkbox').prop('checked', $(this).is(':checked'));
   });
 }
