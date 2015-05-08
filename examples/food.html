@@ -30,7 +30,7 @@
         </div>
         <div class="criteria" id="distance_criteria">
           <h4>Distance</h4>
-          <span id="distance_range_label" class="slider-label">1-10</span>
+          <span id="distance_range_label" class="slider-label">1 - 10</span>
           <div id="distance_slider" class="slider"></div>
           <input type="hidden" id="distance_filter" value="1-10">
         </div>
@@ -115,6 +115,9 @@
       <script id="places-template" type="text/html">
         <div class="col-span-4 place">
           <div class="thumbnail">
+            <span class="label label-success rating"><%= cost %>
+            <i class="glyphicon glyphicon-star"></i>
+          </span>
           <div class="caption">
             <h4><%= name %></h4>
             <div class="outline">
@@ -126,8 +129,6 @@
             </div>
             <div class="detail">
               <dl>
-                <dt>Cost</dt>
-                <dd><%= cost %></dd>
                 <dt>Type</dt>
                 <dd><%= type %></dt>
                 <dt>Mood</dt>

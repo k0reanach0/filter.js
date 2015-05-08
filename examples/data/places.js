@@ -1,4 +1,4 @@
-var food = [
+var places = [
   {
     "name": "Subway",
     "mood": "Sandwiches",
