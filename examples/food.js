@@ -10,7 +10,7 @@ $(document).ready(function(){
   FilterJS(places, "#places", {
     template: '#places-template',
     criterias:[
-      {field: 'type', ele: '#type_filter'},
+      {field: 'type', ele: '#type_filter', all: 'all'},
       {field: 'cost', ele: '#rating_filter', type: 'range'},
       {field: 'dist', ele: '#distance_filter', type: 'range'},
       {field: 'mood', ele: '#mood_criteria input:checkbox'}
