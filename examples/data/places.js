@@ -5,8 +5,7 @@ var places = [
     "cost": 5,
     "dist": 1,
     "type": "Takeout",
-    "outline": "Generic Info",
-    "id": 1
+    "outline": "Generic Info"
   },
   {
     "name": "Arby's",
@@ -14,8 +13,7 @@ var places = [
     "cost": 5,
     "dist": 1,
     "type": "Takeout",
-    "outline": "Generic Info",
-    "id": 2
+    "outline": "Generic Info"
   },
   {
     "name": "Whataburger",
@@ -23,8 +21,7 @@ var places = [
     "cost": 5,
     "dist": 1,
     "type": "Takeout",
-    "outline": "Generic Info",
-    "id": 3
+    "outline": "Generic Info"
   },
   {
     "name": "Long John Silver's",
@@ -32,8 +29,7 @@ var places = [
     "cost": 5,
     "dist": 1,
     "type": "Takeout",
-    "outline": "Generic Info",
-    "id": 4
+    "outline": "Generic Info"
   },
   {
     "name": "Chipotle",
@@ -41,8 +37,7 @@ var places = [
     "cost": 10,
     "dist": 2,
     "type": "Takeout",
-    "outline": "Generic Info",
-    "id": 5
+    "outline": "Generic Info"
   },
   {
     "name": "Raising Cane's",
@@ -50,8 +45,7 @@ var places = [
     "cost": 5,
     "dist": 3,
     "type": "Takeout",
-    "outline": "Generic Info",
-    "id": 6
+    "outline": "Generic Info"
   },
   {
     "name": "Chick-fil-a",
@@ -59,8 +53,7 @@ var places = [
     "cost": 5,
     "dist": 3,
     "type": "Takeout",
-    "outline": "Generic Info",
-    "id": 7
+    "outline": "Generic Info"
   },
   {
     "name": "Panda Express",
@@ -68,8 +61,7 @@ var places = [
     "cost": 5,
     "dist": 5,
     "type": "Takeout",
-    "outline": "Generic Info",
-    "id": 8
+    "outline": "Generic Info"
   },
   {
     "name": "Pei Wei",
@@ -77,8 +69,7 @@ var places = [
     "cost": 10,
     "dist": 4,
     "type": "Takeout",
-    "outline": "Generic Info",
-    "id": 9
+    "outline": "Generic Info"
   },
   {
     "name": "Sonic",
@@ -86,8 +77,7 @@ var places = [
     "cost": 5,
     "dist": 3,
     "type": "Takeout",
-    "outline": "Generic Info",
-    "id": 10
+    "outline": "Generic Info"
   },
   {
     "name": "Braum's",
@@ -95,8 +85,7 @@ var places = [
     "cost": 5,
     "dist": 2,
     "type": "Takeout",
-    "outline": "Generic Info",
-    "id": 11
+    "outline": "Generic Info"
   },
   {
     "name": "Popeye's",
@@ -104,8 +93,7 @@ var places = [
     "cost": 5,
     "dist": 2,
     "type": "Takeout",
-    "outline": "Generic Info",
-    "id": 12
+    "outline": "Generic Info"
   },
   {
     "name": "McDonald's",
@@ -113,8 +101,7 @@ var places = [
     "cost": 5,
     "dist": 4,
     "type": "Takeout",
-    "outline": "Generic Info",
-    "id": 13
+    "outline": "Generic Info"
   },
   {
     "name": "Nhinja",
@@ -122,8 +109,7 @@ var places = [
     "cost": 15,
     "dist": 3,
     "type": "Restaurant",
-    "outline": "Generic Info",
-    "id": 14
+    "outline": "Generic Info"
   },
   {
     "name": "Phobulous",
@@ -131,8 +117,7 @@ var places = [
     "cost": 10,
     "dist": 4,
     "type": "Restaurant",
-    "outline": "Generic Info",
-    "id": 15
+    "outline": "Generic Info"
   },
   {
     "name": "Hu-Hot",
@@ -140,8 +125,7 @@ var places = [
     "cost": 10,
     "dist": 6,
     "type": "Restaurant",
-    "outline": "Generic Info",
-    "id": 16
+    "outline": "Generic Info"
   },
   {
     "name": "Alfredo's",
@@ -149,8 +133,7 @@ var places = [
     "cost": 10,
     "dist": 5,
     "type": "Restaurant",
-    "outline": "Generic Info",
-    "id": 17
+    "outline": "Generic Info"
   },
   {
     "name": "SUMO",
@@ -158,8 +141,7 @@ var places = [
     "cost": 50,
     "dist": 3,
     "type": "Restaurant",
-    "outline": "Generic Info",
-    "id": 18
+    "outline": "Generic Info"
   },
   {
     "name": "Old Chicago",
@@ -167,8 +149,7 @@ var places = [
     "cost": 10,
     "dist": 4,
     "type": "Restaurant",
-    "outline": "Generic Info",
-    "id": 19
+    "outline": "Generic Info"
   },
   {
     "name": "Pepe's",
@@ -176,8 +157,7 @@ var places = [
     "cost": 10,
     "dist": 4,
     "type": "Restaurant",
-    "outline": "Generic Info",
-    "id": 20
+    "outline": "Generic Info"
   },
   {
     "name": "Earl's",
@@ -185,8 +165,7 @@ var places = [
     "cost": 10,
     "dist": 4,
     "type": "Takeout",
-    "outline": "Generic Info",
-    "id": 21
+    "outline": "Generic Info"
   },
   {
     "name": "Billy Sims",
@@ -194,8 +173,7 @@ var places = [
     "cost": 10,
     "dist": 4,
     "type": "Takeout",
-    "outline": "Generic Info",
-    "id": 22
+    "outline": "Generic Info"
   },
   {
     "name": "Stars & Stripes",
@@ -203,8 +181,7 @@ var places = [
     "cost": 5,
     "dist": 3,
     "type": "Takeout",
-    "outline": "Generic Info",
-    "id": 23
+    "outline": "Generic Info"
   },
   {
     "name": "Taco Bueno",
@@ -212,8 +189,7 @@ var places = [
     "cost": 5,
     "dist": 1,
     "type": "Takeout",
-    "outline": "Generic Info",
-    "id": 24
+    "outline": "Generic Info"
   },
   {
     "name": "Papa John's",
@@ -221,8 +197,7 @@ var places = [
     "cost": 10,
     "dist": 1,
     "type": "Takeout",
-    "outline": "Generic Info",
-    "id": 25
+    "outline": "Generic Info"
   },
   {
     "name": "Taco Bell",
@@ -230,8 +205,7 @@ var places = [
     "cost": 5,
     "dist": 5,
     "type": "Takeout",
-    "outline": "Generic Info",
-    "id": 26
+    "outline": "Generic Info"
   },
   {
     "name": "Burger King",
@@ -239,8 +213,7 @@ var places = [
     "cost": 5,
     "dist": 5,
     "type": "Takeout",
-    "outline": "Generic Info",
-    "id": 27
+    "outline": "Generic Info"
   },
   {
     "name": "The Garage",
@@ -248,8 +221,7 @@ var places = [
     "cost": 10,
     "dist": 5,
     "type": "Takeout",
-    "outline": "Generic Info",
-    "id": 28
+    "outline": "Generic Info"
   },
   {
     "name": "Planet Sub",
@@ -257,8 +229,7 @@ var places = [
     "cost": 10,
     "dist": 5,
     "type": "Takeout",
-    "outline": "Generic Info",
-    "id": 29
+    "outline": "Generic Info"
   },
   {
     "name": "Wahaha Express",
@@ -266,8 +237,7 @@ var places = [
     "cost": 10,
     "dist": 1,
     "type": "Takeout",
-    "outline": "Generic Info",
-    "id": 30
+    "outline": "Generic Info"
   },
   {
     "name": "Cafe 7",
@@ -275,8 +245,7 @@ var places = [
     "cost": 10,
     "dist": 7,
     "type": "Takeout",
-    "outline": "Generic Info",
-    "id": 31
+    "outline": "Generic Info"
   },
   {
     "name": "Hideaway Pizza",
@@ -284,8 +253,7 @@ var places = [
     "cost": 10,
     "dist": 1,
     "type": "Takeout",
-    "outline": "Generic Info",
-    "id": 32
+    "outline": "Generic Info"
   },
   {
     "name": "Mazzio's",
@@ -293,8 +261,7 @@ var places = [
     "cost": 10,
     "dist": 2,
     "type": "Takeout",
-    "outline": "Generic Info",
-    "id": 33
+    "outline": "Generic Info"
   },
   {
     "name": "Which Wich",
@@ -302,8 +269,7 @@ var places = [
     "cost": 10,
     "dist": 5,
     "type": "Takeout",
-    "outline": "Generic Info",
-    "id": 34
+    "outline": "Generic Info"
   },
   {
     "name": "Jersey Mike's",
@@ -311,8 +277,7 @@ var places = [
     "cost": 10,
     "dist": 3,
     "type": "Takeout",
-    "outline": "Generic Info",
-    "id": 35
+    "outline": "Generic Info"
   },
   {
     "name": "Firehouse Subs",
@@ -320,8 +285,7 @@ var places = [
     "cost": 10,
     "dist": 3,
     "type": "Takeout",
-    "outline": "Generic Info",
-    "id": 36
+    "outline": "Generic Info"
   },
   {
     "name": "Zarate's",
@@ -329,8 +293,7 @@ var places = [
     "cost": 15,
     "dist": 1,
     "type": "Restaurant",
-    "outline": "Generic Info",
-    "id": 37
+    "outline": "Generic Info"
   },
   {
     "name": "Bighead's",
@@ -338,7 +301,6 @@ var places = [
     "cost": 10,
     "dist": 1,
     "type": "Takeout",
-    "outline": "Generic Info",
-    "id": 38
+    "outline": "Generic Info"
   }
 ];
