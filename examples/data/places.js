@@ -5,7 +5,7 @@ var places = [
     "cost": 5,
     "dist": 1,
     "type": "Takeout",
-    "outline": "Generic Info"
+    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
     "name": "Arby's",
@@ -13,7 +13,7 @@ var places = [
     "cost": 5,
     "dist": 1,
     "type": "Takeout",
-    "outline": "Generic Info"
+    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
     "name": "Whataburger",
@@ -21,7 +21,7 @@ var places = [
     "cost": 5,
     "dist": 1,
     "type": "Takeout",
-    "outline": "Generic Info"
+    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
     "name": "Long John Silver's",
@@ -29,7 +29,7 @@ var places = [
     "cost": 5,
     "dist": 1,
     "type": "Takeout",
-    "outline": "Generic Info"
+    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
     "name": "Chipotle",
@@ -37,7 +37,7 @@ var places = [
     "cost": 10,
     "dist": 2,
     "type": "Takeout",
-    "outline": "Generic Info"
+    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
     "name": "Raising Cane's",
@@ -45,7 +45,7 @@ var places = [
     "cost": 5,
     "dist": 3,
     "type": "Takeout",
-    "outline": "Generic Info"
+    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
     "name": "Chick-fil-a",
@@ -53,7 +53,7 @@ var places = [
     "cost": 5,
     "dist": 3,
     "type": "Takeout",
-    "outline": "Generic Info"
+    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
     "name": "Panda Express",
@@ -61,7 +61,7 @@ var places = [
     "cost": 5,
     "dist": 5,
     "type": "Takeout",
-    "outline": "Generic Info"
+    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
     "name": "Pei Wei",
@@ -69,7 +69,7 @@ var places = [
     "cost": 10,
     "dist": 4,
     "type": "Takeout",
-    "outline": "Generic Info"
+    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
     "name": "Sonic",
@@ -77,7 +77,7 @@ var places = [
     "cost": 5,
     "dist": 3,
     "type": "Takeout",
-    "outline": "Generic Info"
+    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
     "name": "Braum's",
@@ -85,7 +85,7 @@ var places = [
     "cost": 5,
     "dist": 2,
     "type": "Takeout",
-    "outline": "Generic Info"
+    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
     "name": "Popeye's",
@@ -93,7 +93,7 @@ var places = [
     "cost": 5,
     "dist": 2,
     "type": "Takeout",
-    "outline": "Generic Info"
+    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
     "name": "McDonald's",
@@ -101,7 +101,7 @@ var places = [
     "cost": 5,
     "dist": 4,
     "type": "Takeout",
-    "outline": "Generic Info"
+    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
     "name": "Nhinja",
@@ -109,7 +109,7 @@ var places = [
     "cost": 15,
     "dist": 3,
     "type": "Restaurant",
-    "outline": "Generic Info"
+    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
     "name": "Phobulous",
@@ -117,7 +117,7 @@ var places = [
     "cost": 10,
     "dist": 4,
     "type": "Restaurant",
-    "outline": "Generic Info"
+    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
     "name": "Hu-Hot",
@@ -125,7 +125,7 @@ var places = [
     "cost": 10,
     "dist": 6,
     "type": "Restaurant",
-    "outline": "Generic Info"
+    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
     "name": "Alfredo's",
@@ -133,7 +133,7 @@ var places = [
     "cost": 10,
     "dist": 5,
     "type": "Restaurant",
-    "outline": "Generic Info"
+    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
     "name": "SUMO",
@@ -141,7 +141,7 @@ var places = [
     "cost": 50,
     "dist": 3,
     "type": "Restaurant",
-    "outline": "Generic Info"
+    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
     "name": "Old Chicago",
@@ -149,7 +149,7 @@ var places = [
     "cost": 10,
     "dist": 4,
     "type": "Restaurant",
-    "outline": "Generic Info"
+    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
     "name": "Pepe's",
@@ -157,7 +157,7 @@ var places = [
     "cost": 10,
     "dist": 4,
     "type": "Restaurant",
-    "outline": "Generic Info"
+    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
     "name": "Earl's",
@@ -165,7 +165,7 @@ var places = [
     "cost": 10,
     "dist": 4,
     "type": "Takeout",
-    "outline": "Generic Info"
+    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
     "name": "Billy Sims",
@@ -173,7 +173,7 @@ var places = [
     "cost": 10,
     "dist": 4,
     "type": "Takeout",
-    "outline": "Generic Info"
+    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
     "name": "Stars & Stripes",
@@ -181,7 +181,7 @@ var places = [
     "cost": 5,
     "dist": 3,
     "type": "Takeout",
-    "outline": "Generic Info"
+    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
     "name": "Taco Bueno",
@@ -189,7 +189,7 @@ var places = [
     "cost": 5,
     "dist": 1,
     "type": "Takeout",
-    "outline": "Generic Info"
+    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
     "name": "Papa John's",
@@ -197,7 +197,7 @@ var places = [
     "cost": 10,
     "dist": 1,
     "type": "Takeout",
-    "outline": "Generic Info"
+    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
     "name": "Taco Bell",
@@ -205,7 +205,7 @@ var places = [
     "cost": 5,
     "dist": 5,
     "type": "Takeout",
-    "outline": "Generic Info"
+    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
     "name": "Burger King",
@@ -213,7 +213,7 @@ var places = [
     "cost": 5,
     "dist": 5,
     "type": "Takeout",
-    "outline": "Generic Info"
+    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
     "name": "The Garage",
@@ -221,7 +221,7 @@ var places = [
     "cost": 10,
     "dist": 5,
     "type": "Takeout",
-    "outline": "Generic Info"
+    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
     "name": "Planet Sub",
@@ -229,7 +229,7 @@ var places = [
     "cost": 10,
     "dist": 5,
     "type": "Takeout",
-    "outline": "Generic Info"
+    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
     "name": "Wahaha Express",
@@ -237,7 +237,7 @@ var places = [
     "cost": 10,
     "dist": 1,
     "type": "Takeout",
-    "outline": "Generic Info"
+    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
     "name": "Cafe 7",
@@ -245,7 +245,7 @@ var places = [
     "cost": 10,
     "dist": 7,
     "type": "Takeout",
-    "outline": "Generic Info"
+    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
     "name": "Hideaway Pizza",
@@ -253,7 +253,7 @@ var places = [
     "cost": 10,
     "dist": 1,
     "type": "Takeout",
-    "outline": "Generic Info"
+    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
     "name": "Mazzio's",
@@ -261,7 +261,7 @@ var places = [
     "cost": 10,
     "dist": 2,
     "type": "Takeout",
-    "outline": "Generic Info"
+    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
     "name": "Which Wich",
@@ -269,7 +269,7 @@ var places = [
     "cost": 10,
     "dist": 5,
     "type": "Takeout",
-    "outline": "Generic Info"
+    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
     "name": "Jersey Mike's",
@@ -277,7 +277,7 @@ var places = [
     "cost": 10,
     "dist": 3,
     "type": "Takeout",
-    "outline": "Generic Info"
+    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
     "name": "Firehouse Subs",
@@ -285,7 +285,7 @@ var places = [
     "cost": 10,
     "dist": 3,
     "type": "Takeout",
-    "outline": "Generic Info"
+    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
     "name": "Zarate's",
@@ -293,7 +293,7 @@ var places = [
     "cost": 15,
     "dist": 1,
     "type": "Restaurant",
-    "outline": "Generic Info"
+    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
     "name": "Bighead's",
@@ -301,6 +301,6 @@ var places = [
     "cost": 10,
     "dist": 1,
     "type": "Takeout",
-    "outline": "Generic Info"
+    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   }
 ];
