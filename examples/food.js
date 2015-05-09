@@ -10,13 +10,13 @@ $(document).ready(function(){
   FilterJS(places, "#places", {
     template: '#places-template',
     criterias:[
-      {field: 'type', ele: '#type_filter', type: 'range', all: 'all'}
-      {field: 'cost', ele: '#rating_filter', type: 'range'}
-      {field: 'dist', ele: '#distance_filter', type: 'range'}
+      {field: 'type', ele: '#type_filter'},
+      {field: 'cost', ele: '#rating_filter', type: 'range'},
+      {field: 'dist', ele: '#distance_filter', type: 'range'},
       {field: 'mood', ele: '#mood_criteria input:checkbox'}
     ],
     search: { ele: '#searchbox' }
-  })
+  });
 });
 
 function initSliders(){
@@ -27,7 +27,7 @@ function initSliders(){
     step: 5,
     range:true,
     slide: function( event, ui ) {
-      $("#rating_range_label" ).html(ui.values[ 0 ] + ' - ' + ui.values[ 1 ]);
+      $("#rating_range_label" ).html('$' + ui.values[ 0 ] + ' - ' + '$' + ui.values[ 1 ]);
       $('#rating_filter').val(ui.values[0] + '-' + ui.values[1]).trigger('change');
     }
   });
