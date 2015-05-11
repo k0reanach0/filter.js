@@ -39,7 +39,7 @@ function initSliders(){
     step: 1,
     range:true,
     slide: function( event, ui ) {
-      $("#distance_range_label" ).html(ui.values[ 0 ] + ' miles - ' + ui.values[ 1 ] + ' miles.');
+      $("#distance_range_label" ).html(ui.values[ 0 ] + ' miles - ' + ui.values[ 1 ] + ' miles');
       $('#distance_filter').val(ui.values[0] + '-' + ui.values[1]).trigger('change');
     }
   });
