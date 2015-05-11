@@ -15,7 +15,13 @@ $(document).ready(function(){
       {field: 'dist', ele: '#distance_filter', type: 'range'},
       {field: 'mood', ele: '#mood_criteria input:checkbox'}
     ],
-    search: { ele: '#searchbox' }
+    search: { ele: '#searchbox' },
+    callbacks: {
+      afterFilter: function(result){
+        $('#total_places').text(result.length);
+      }
+    }
+    // appendToContainer: appendToContainer
   });
 });
 
