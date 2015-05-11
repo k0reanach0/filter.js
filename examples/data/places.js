@@ -5,6 +5,7 @@ var places = [
     "cost": 5,
     "dist": 1,
     "type": "Takeout",
+    "menu": "http://www.subway.com/menu/",
     "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
@@ -13,6 +14,7 @@ var places = [
     "cost": 5,
     "dist": 1,
     "type": "Takeout",
+    "menu": "http://arbys.com/our-menu",
     "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
@@ -21,6 +23,7 @@ var places = [
     "cost": 5,
     "dist": 1,
     "type": "Takeout",
+    "menu": "http://whataburger.com/food",
     "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
@@ -29,6 +32,7 @@ var places = [
     "cost": 5,
     "dist": 1,
     "type": "Takeout",
+    "menu": "http://www.ljsilvers.com/menu-items",
     "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
@@ -37,6 +41,7 @@ var places = [
     "cost": 10,
     "dist": 2,
     "type": "Takeout",
+    "menu": "http://chipotle.com/menu",
     "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
@@ -45,6 +50,7 @@ var places = [
     "cost": 5,
     "dist": 3,
     "type": "Takeout",
+    "menu": "http://www.raisingcanes.com/our-menu",
     "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
@@ -53,6 +59,7 @@ var places = [
     "cost": 5,
     "dist": 3,
     "type": "Takeout",
+    "menu": "http://www.chick-fil-a.com/Food/Menu",
     "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
@@ -61,6 +68,7 @@ var places = [
     "cost": 5,
     "dist": 5,
     "type": "Takeout",
+    "menu": "www.pandaexpress.com/menu",
     "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
@@ -69,6 +77,7 @@ var places = [
     "cost": 10,
     "dist": 4,
     "type": "Takeout",
+    "menu": "https://www.peiwei.com/menu",
     "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
@@ -77,6 +86,7 @@ var places = [
     "cost": 5,
     "dist": 3,
     "type": "Takeout",
+    "menu": "https://www.sonicdrivein.com/menu",
     "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
@@ -85,6 +95,7 @@ var places = [
     "cost": 5,
     "dist": 2,
     "type": "Takeout",
+    "menu": "http://www.braums.com/menus/",
     "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
@@ -93,6 +104,7 @@ var places = [
     "cost": 5,
     "dist": 2,
     "type": "Takeout",
+    "menu": "http://popeyes.com/menu",
     "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
@@ -101,6 +113,7 @@ var places = [
     "cost": 5,
     "dist": 4,
     "type": "Takeout",
+    "menu": "http://www.mcdonalds.com/us/en/food/full_menu/full_menu_explorer.html",
     "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
@@ -109,6 +122,7 @@ var places = [
     "cost": 15,
     "dist": 3,
     "type": "Restaurant",
+    "menu": "http://www.nhinja.com/menu.htm",
     "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
@@ -117,6 +131,7 @@ var places = [
     "cost": 10,
     "dist": 4,
     "type": "Restaurant",
+    "menu": "http://www.urbanspoon.com/cities/46-oklahoma-city/restaurants/501166-pho-bulous/menu?utm_source=Google&utm_medium=Local&utm_campaign=GoogleMenus",
     "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
@@ -125,6 +140,7 @@ var places = [
     "cost": 10,
     "dist": 6,
     "type": "Restaurant",
+    "menu": "http://www.huhot.com/Menu/",
     "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
@@ -133,6 +149,7 @@ var places = [
     "cost": 10,
     "dist": 5,
     "type": "Restaurant",
+    "menu": "http://alfredosok.com/menu/",
     "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
@@ -141,6 +158,7 @@ var places = [
     "cost": 50,
     "dist": 3,
     "type": "Restaurant",
+    "menu": "http://www.sumoedmondok.com/menu.html",
     "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
@@ -149,6 +167,7 @@ var places = [
     "cost": 10,
     "dist": 4,
     "type": "Restaurant",
+    "menu": "http://www.oldchicago.com/full-menu",
     "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
@@ -157,6 +176,7 @@ var places = [
     "cost": 10,
     "dist": 4,
     "type": "Restaurant",
+    "menu": "http://www.urbanspoon.com/cities/46-oklahoma-city/restaurants/501156-pepe-s-mexican/menu",
     "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
@@ -165,6 +185,7 @@ var places = [
     "cost": 10,
     "dist": 4,
     "type": "Takeout",
+    "menu": "http://www.earlsribpalace.com/menus.html",
     "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
@@ -173,6 +194,7 @@ var places = [
     "cost": 10,
     "dist": 4,
     "type": "Takeout",
+    "menu": "http://www.billysimsbbq.com/menu/",
     "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
@@ -181,6 +203,7 @@ var places = [
     "cost": 5,
     "dist": 3,
     "type": "Takeout",
+    "menu": "http://www.starsandstripespizza.com/menu.htm",
     "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
@@ -189,6 +212,7 @@ var places = [
     "cost": 5,
     "dist": 1,
     "type": "Takeout",
+    "menu": "http://www.tacobueno.com/menu/",
     "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
@@ -197,6 +221,7 @@ var places = [
     "cost": 10,
     "dist": 1,
     "type": "Takeout",
+    "menu": "http://order.papajohns.com/menu/MENUS/1/subMenu.html",
     "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
@@ -205,6 +230,7 @@ var places = [
     "cost": 5,
     "dist": 5,
     "type": "Takeout",
+    "menu": "https://www.tacobell.com/m/menu",
     "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
@@ -213,6 +239,7 @@ var places = [
     "cost": 5,
     "dist": 5,
     "type": "Takeout",
+    "menu": "http://www.bk.com/menu",
     "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
@@ -221,6 +248,7 @@ var places = [
     "cost": 10,
     "dist": 5,
     "type": "Takeout",
+    "menu": "http://www.eatatthegarage.com/menu",
     "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
@@ -229,6 +257,7 @@ var places = [
     "cost": 10,
     "dist": 5,
     "type": "Takeout",
+    "menu": "http://planetsub.com/the-food/menu/",
     "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
@@ -237,6 +266,7 @@ var places = [
     "cost": 10,
     "dist": 1,
     "type": "Takeout",
+    "menu": "http://www.beyondmenu.com/25368/edmond/wahaha-express-edmond-73034.aspx?r=25368",
     "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
@@ -245,6 +275,7 @@ var places = [
     "cost": 10,
     "dist": 7,
     "type": "Takeout",
+    "menu": "http://cafe7okc.com/menu/",
     "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
@@ -253,6 +284,7 @@ var places = [
     "cost": 10,
     "dist": 1,
     "type": "Takeout",
+    "menu": "http://www.hideawaypizza.com/menu.php",
     "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
@@ -261,6 +293,7 @@ var places = [
     "cost": 10,
     "dist": 2,
     "type": "Takeout",
+    "menu": "http://www.mazzios.com/menu/",
     "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
@@ -269,6 +302,7 @@ var places = [
     "cost": 10,
     "dist": 5,
     "type": "Takeout",
+    "menu": "http://www.whichwich.com/#!/menu",
     "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
@@ -277,6 +311,7 @@ var places = [
     "cost": 10,
     "dist": 3,
     "type": "Takeout",
+    "menu": "http://www.jerseymikes.com/menu/",
     "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
@@ -285,6 +320,7 @@ var places = [
     "cost": 10,
     "dist": 3,
     "type": "Takeout",
+    "menu": "http://www.firehousesubs.com/our-food/",
     "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
@@ -293,6 +329,7 @@ var places = [
     "cost": 15,
     "dist": 1,
     "type": "Restaurant",
+    "menu": "http://www.urbanspoon.com/cities/46-oklahoma-city/restaurants/1348683-zarate-s-latin-mexican-grill/menu",
     "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
@@ -301,6 +338,7 @@ var places = [
     "cost": 10,
     "dist": 1,
     "type": "Takeout",
+    "menu": "http://www.urbanspoon.com/cities/46-oklahoma-city/restaurants/1712387-bigheads/menu",
     "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   }
 ];
