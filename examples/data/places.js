@@ -68,7 +68,7 @@ var places = [
     "cost": 5,
     "dist": 5,
     "type": "Takeout",
-    "menu": "www.pandaexpress.com/menu",
+    "menu": "http://www.pandaexpress.com/menu",
     "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
