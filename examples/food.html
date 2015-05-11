@@ -101,10 +101,6 @@
             <label>
               <input type="checkbox" value="Cajun"> Cajun
             </label>
-            </div><div class="checkbox">
-            <label>
-              <input type="checkbox" value="Family"> Family
-            </label>
             </div>
           </div>
       </div>
@@ -122,14 +118,16 @@
             <h4><%= name %></h4>
             <div class="detail">
               <dl>
-                <dt>Type</dt>
-                <dd><%= type %></dt>
-                <dt>Mood</dt>
-                <dd><%= mood %></dd>
-                <dt>Distance</dt>
-                <dd><i class="glyphicon glyphicon-time"></i> < <%= dist %> miles</dd>
-                <dt>Menu</dt>
-                <dd>menu</dd>
+                <dt><i class="glyphicon glyphicon-ok"></i> <%= type %></dt>
+                <dd></dd>
+                <dt><i class="glyphicon glyphicon-cutlery"></i> <%= mood %></dt>
+                <dd></dd>
+                <div class="runtime">
+                <dt><i class="glyphicon glyphicon-road"></i> <%= dist %> miles  </dt>
+              </div>
+                <dd></dd>
+                <dt><a href="http://www.google.com">MENU</a></dt>
+                <dd></dd>
               </dl>
             </div>
           </div>

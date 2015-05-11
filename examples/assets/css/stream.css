@@ -3,6 +3,9 @@ body{
   font-family: "Open Sans", sans-serif;
 }
 
+.container-fluid {
+  padding: 80px;
+}
 h4, dd, .checkbox label{
   font-weight: 200;
 }
@@ -96,7 +99,7 @@ select:focus, textarea:focus, input:focus{
 
 .thumbnail{
   background-color: #D3D3D3;
-  min-height: 265px;
+  min-height: 205px;
   border-radius: 0;
 }
 
@@ -140,6 +143,8 @@ select:focus, textarea:focus, input:focus{
   margin-bottom: -5px;
   border-bottom: 1px solid #A9A9A9;
   padding-bottom: 7px;
+  font-size: 18px;
+  font-weight: 400;
 }
 
 .rating{
@@ -197,25 +202,40 @@ select:focus, textarea:focus, input:focus{
   font-weight: 200;
 }
 
-.caption:hover .outline{
+/*.caption:hover .outline{
   opacity: 1;
 }
 
 .caption:hover .detail{
   opacity: 0;
-}
+}*/
 
-.runtime{
+dt{
   display: block;
   margin-top: 10px;
-  font-weight: 200;
+
+}
+
+dt .glyphicon {
+  vertical-align: middle;
+  margin-right: 3px;
   font-size: 15px;
+  font-weight: 200;
+}
+
+dt a {
   color: #F08080;
 }
 
-.runtime .glyphicon{
+dt a:hover {
+  color: #F08080;
+  text-decoration: underline;
+}
+
+.runtime{
   vertical-align: middle;
   margin-right: 3px;
+
 }
 
 .criteria h4{
@@ -224,6 +244,7 @@ select:focus, textarea:focus, input:focus{
   padding-bottom: 5px;
   margin: 10px;
   color: #808080;
+  text-transform: uppercase;
 }
 
 .ui-widget-header{
@@ -252,4 +273,8 @@ select:focus, textarea:focus, input:focus{
 
 .criteria select{
   margin-left: 10px;
+}
+
+.glyphicon-cutlery:before {
+content: "\e179";
 }
