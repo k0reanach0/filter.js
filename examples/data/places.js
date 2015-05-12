@@ -300,7 +300,7 @@ var places = [
     "name": "Which Wich",
     "mood": "Sandwiches",
     "cost": 10,
-    "dist": 5,
+    "dist": 3,
     "type": "Takeout",
     "menu": "http://www.whichwich.com/#!/menu",
     "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
@@ -339,6 +339,231 @@ var places = [
     "dist": 1,
     "type": "Takeout",
     "menu": "http://www.urbanspoon.com/cities/46-oklahoma-city/restaurants/1712387-bigheads/menu",
+    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+  },
+  {
+    "name": "Jimmy John's",
+    "mood": "Sandwiches",
+    "cost": 10,
+    "dist": 2,
+    "type": "Takeout",
+    "menu": "https://www.jimmyjohns.com/menu/#/",
+    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+  },
+  {
+    "name": "Snow Pea",
+    "mood": "Asian",
+    "cost": 10,
+    "dist": 2,
+    "type": "Takeout",
+    "menu": "http://www.snowpearestaurant.com/",
+    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+  },
+  {
+    "name": "New China House",
+    "mood": "Asian",
+    "cost": 10,
+    "dist": 3,
+    "type": "Takeout",
+    "menu": "http://www.newchinahouseedmond.com/#/",
+    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+  },
+  {
+    "name": "KFC",
+    "mood": "Chicken",
+    "cost": 5,
+    "dist": 3,
+    "type": "Takeout",
+    "menu": "http://www.kfc.com/",
+    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+  },
+  {
+    "name": "Qdoba",
+    "mood": "Mexican",
+    "cost": 10,
+    "dist": 3,
+    "type": "Takeout",
+    "menu": "http://www.qdoba.com/menu-nutrition",
+    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+  },
+  {
+    "name": "Del Taco",
+    "mood": "Mexican",
+    "cost": 10,
+    "dist": 2,
+    "type": "Takeout",
+    "menu": "http://www.deltaco.com/food.html",
+    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+  },
+  {
+    "name": "McAlister's Deli",
+    "mood": "Sandwiches",
+    "cost": 10,
+    "dist": 2,
+    "type": "Takeout",
+    "menu": "https://www.mcalistersdeli.com/menu/starters",
+    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+  },
+  {
+    "name": "S & B's Burger Joint",
+    "mood": "Burgers",
+    "cost": 10,
+    "dist": 6,
+    "type": "Takeout",
+    "menu": "http://www.urbanspoon.com/cities/46-oklahoma-city/restaurants/1493908-s-b-s-burger-joint/menu",
+    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+  },
+  {
+    "name": "Shiki",
+    "mood": "Sushi",
+    "cost": 20,
+    "dist": 6,
+    "type": "Restaurant",
+    "menu": "http://shikiok.com/",
+    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+  },
+  {
+    "name": "Taco Mayo",
+    "mood": "Mexican",
+    "cost": 5,
+    "dist": 2,
+    "type": "Takeout",
+    "menu": "http://www.tacomayo.com/menu.aspx",
+    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+  },
+  {
+    "name": "Thai Delight",
+    "mood": "Asian",
+    "cost": 10,
+    "dist": 3,
+    "type": "Restaurant",
+    "menu": "http://www.thaidelightoklahoma.com/cuisine.html",
+    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+  },
+  {
+    "name": "Kabsa House",
+    "mood": "Mediterranean",
+    "cost": 10,
+    "dist": 3,
+    "type": "Takeout",
+    "menu": "http://www.urbanspoon.com/cities/46-oklahoma-city/restaurants/1716626-kabsa-house/menu",
+    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+  },
+  {
+    "name": "Freddy's Steakburgers",
+    "mood": "Burgers",
+    "cost": 10,
+    "dist": 3,
+    "type": "Takeout",
+    "menu": "http://www.freddysusa.com/menu/combomeals/",
+    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+  },
+  {
+    "name": "Smashburger",
+    "mood": "Burgers",
+    "cost": 10,
+    "dist": 6,
+    "type": "Takeout",
+    "menu": "http://smashburger.com/eat/menu/",
+    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+  },
+  {
+    "name": "Genghis Grill",
+    "mood": "Asian",
+    "cost": 10,
+    "dist": 6,
+    "type": "Restaurant",
+    "menu": "http://www.genghisgrill.com/food-and-drinks/",
+    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+  },
+  {
+    "name": "Chili's",
+    "mood": "Burgers",
+    "cost": 10,
+    "dist": 3,
+    "type": "Restaurant",
+    "menu": "http://www.chilis.com/EN/Pages/menu.aspx",
+    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+  },
+  {
+    "name": "Applebee's",
+    "mood": "Burgers",
+    "cost": 10,
+    "dist": 3,
+    "type": "Restaurant",
+    "menu": "http://www.applebees.com/menu",
+    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+  },
+  {
+    "name": "Outback Steakhouse",
+    "mood": "Steak",
+    "cost": 15,
+    "dist": 3,
+    "type": "Restaurant",
+    "menu": "http://www.outback.com/menu",
+    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+  },
+  {
+    "name": "Ted's Cafe",
+    "mood": "Mexican",
+    "cost": 15,
+    "dist": 4,
+    "type": "Restaurant",
+    "menu": "http://tedscafe.com/our-menu/",
+    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+  },
+  {
+    "name": "Slim Chickens",
+    "mood": "Chicken",
+    "cost": 10,
+    "dist": 2,
+    "type": "Takeout",
+    "menu": "http://slimchickens.com/menu/",
+    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+  },
+  {
+    "name": "Chicken Express",
+    "mood": "Chicken",
+    "cost": 10,
+    "dist": 4,
+    "type": "Takeout",
+    "menu": "http://www.chickene.com/menu.html",
+    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+  },
+  {
+    "name": "Carl's Jr.",
+    "mood": "Burgers",
+    "cost": 10,
+    "dist": 4,
+    "type": "Takeout",
+    "menu": "http://www.carlsjr.com/menu",
+    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+  },
+  {
+    "name": "Jack In The Box",
+    "mood": "Burgers",
+    "cost": 5,
+    "dist": 5,
+    "type": "Restaurant",
+    "menu": "http://www.jackinthebox.com/food",
+    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+  },
+  {
+    "name": "Boulevard Steakhouse",
+    "mood": "Steak",
+    "cost": 50,
+    "dist": 1,
+    "type": "Restaurant",
+    "menu": "http://boulevardsteakhouse.com/",
+    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+  },
+  {
+    "name": "Charleston's",
+    "mood": "Steak",
+    "cost": 40,
+    "dist": 3,
+    "type": "Restaurant",
+    "menu": "http://www.ehsrg.com/charlestons/charlestons-ok-edmond/",
     "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   }
 ];
