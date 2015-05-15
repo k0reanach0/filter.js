@@ -565,5 +565,13 @@ var places = [
     "type": "Restaurant",
     "menu": "http://www.ehsrg.com/charlestons/charlestons-ok-edmond/",
     "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+  },
+  {
+    "name": "Lemongrass",
+    "mood": "Asian",
+    "cost": 10,
+    "dist": 2,
+    "type": "Takeout",
+    "menu": "http://www.lemongrassok.com/lunch_menu.htm"
   }
 ];
