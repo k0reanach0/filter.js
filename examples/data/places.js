@@ -573,5 +573,13 @@ var places = [
     "dist": 2,
     "type": "Takeout",
     "menu": "http://www.lemongrassok.com/lunch_menu.htm"
+  },
+  {
+    "name": "Mt. Everest Cuisines",
+    "mood": "Indian",
+    "cost": 10,
+    "dist": 2,
+    "type": "Takeout",
+    "menu": "http://www.mteverestcuisines.com/menu.html"
   }
 ];
