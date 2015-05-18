@@ -325,7 +325,7 @@ var places = [
   },
   {
     "name": "Zarate's",
-    "mood": "Mediterranean",
+    "mood": "Mexican",
     "cost": 15,
     "dist": 1,
     "type": "Restaurant",
