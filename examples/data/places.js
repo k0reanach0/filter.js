@@ -99,15 +99,6 @@ var places = [
     "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   },
   {
-    "name": "Popeye's",
-    "mood": "Chicken",
-    "cost": 5,
-    "dist": 2,
-    "type": "Takeout",
-    "menu": "http://popeyes.com/menu",
-    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
-  },
-  {
     "name": "McDonald's",
     "mood": "Burgers",
     "cost": 5,
@@ -581,5 +572,23 @@ var places = [
     "dist": 2,
     "type": "Takeout",
     "menu": "http://www.mteverestcuisines.com/menu.html"
+  },
+  {
+    "name": "Hobby's Hoagies",
+    "mood": "Sandwiches",
+    "cost": 5,
+    "dist": 3,
+    "type": "Takeout",
+    "menu": "http://hobbyshoagies.com/menu",
+    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+  },
+  {
+    "name": "Humble Pie",
+    "mood": "Pizza",
+    "cost": 10,
+    "dist": 2,
+    "type": "Takeout",
+    "menu": "http://www.humblepieok.com/menu",
+    "outline": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
   }
 ];
